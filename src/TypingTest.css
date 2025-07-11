@@ -15,15 +15,6 @@ body {
 }
 
 
-.container {
-  width: 90%;
-  max-width: 900px;
-  padding: 30px;
-  background-color: #ffffffdd;
-  border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
 
 .container {
   max-width: 800px;
